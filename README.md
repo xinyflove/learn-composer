@@ -1,3 +1,4 @@
-# My Awesome Book
+# 关于Composer文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文档记录使用Composer工具过程，供大家参考。如有内容侵权，请及时联系我&lt;xinyflove@sina.com&gt;，我将于24小时内删除争议内容。
+
